@@ -3,7 +3,7 @@
 <div align="center">
   <div>
     <a href="https://github.com/Drivecok" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=Drivecok&theme=dracula&show_icons=true"
+      <img src="https://github-readme-stats.vercel.app/api?username=yourtulloh&theme=dracula&show_icons=true"
          alt="github stats"/>
     </a>
   </div>
